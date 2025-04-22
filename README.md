@@ -12,4 +12,4 @@ Go to the top and you will find a button called "Code", There you must click on 
 
 Official link to Godot's page
 
-(https://godot.com)
+(https://godotengine.org)
